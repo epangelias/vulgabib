@@ -1,0 +1,411 @@
+{
+  "stage": 0,
+  "name": "The KJV bible with mixed latin words. For Latin beginner students to read the KJV bible where various words are replaced with the latin word without reducing readability.",
+  "slug": "lat",
+  "books": [
+    {
+      "name": "Genesis",
+      "chapters": 50
+    },
+    {
+      "name": "Exodus",
+      "chapters": 40
+    },
+    {
+      "name": "Leviticus",
+      "chapters": 27
+    },
+    {
+      "name": "Numbers",
+      "chapters": 36
+    },
+    {
+      "name": "Deuteronomy",
+      "chapters": 34
+    },
+    {
+      "name": "Joshua",
+      "chapters": 24
+    },
+    {
+      "name": "Judges",
+      "chapters": 21
+    },
+    {
+      "name": "Ruth",
+      "chapters": 4
+    },
+    {
+      "name": "1 Samuel",
+      "chapters": 31
+    },
+    {
+      "name": "2 Samuel",
+      "chapters": 24
+    },
+    {
+      "name": "1 Kings",
+      "chapters": 22
+    },
+    {
+      "name": "2 Kings",
+      "chapters": 25
+    },
+    {
+      "name": "1 Chronicles",
+      "chapters": 29
+    },
+    {
+      "name": "2 Chronicles",
+      "chapters": 36
+    },
+    {
+      "name": "Ezra",
+      "chapters": 10
+    },
+    {
+      "name": "Nehemiah",
+      "chapters": 13
+    },
+    {
+      "name": "Esther",
+      "chapters": 10
+    },
+    {
+      "name": "Job",
+      "chapters": 42
+    },
+    {
+      "name": "Psalms",
+      "chapters": 150
+    },
+    {
+      "name": "Proverbs",
+      "chapters": 31
+    },
+    {
+      "name": "Ecclesiastes",
+      "chapters": 12
+    },
+    {
+      "name": "Song of Solomon",
+      "chapters": 8
+    },
+    {
+      "name": "Isaiah",
+      "chapters": 66
+    },
+    {
+      "name": "Jeremiah",
+      "chapters": 52
+    },
+    {
+      "name": "Lamentations",
+      "chapters": 5
+    },
+    {
+      "name": "Ezekiel",
+      "chapters": 48
+    },
+    {
+      "name": "Daniel",
+      "chapters": 12
+    },
+    {
+      "name": "Hosea",
+      "chapters": 14
+    },
+    {
+      "name": "Joel",
+      "chapters": 3
+    },
+    {
+      "name": "Amos",
+      "chapters": 9
+    },
+    {
+      "name": "Obadiah",
+      "chapters": 1
+    },
+    {
+      "name": "Jonah",
+      "chapters": 4
+    },
+    {
+      "name": "Micah",
+      "chapters": 7
+    },
+    {
+      "name": "Nahum",
+      "chapters": 3
+    },
+    {
+      "name": "Habakkuk",
+      "chapters": 3
+    },
+    {
+      "name": "Zephaniah",
+      "chapters": 3
+    },
+    {
+      "name": "Haggai",
+      "chapters": 2
+    },
+    {
+      "name": "Zechariah",
+      "chapters": 14
+    },
+    {
+      "name": "Malachi",
+      "chapters": 4
+    },
+    {
+      "name": "Matthew",
+      "chapters": 28
+    },
+    {
+      "name": "Mark",
+      "chapters": 16
+    },
+    {
+      "name": "Luke",
+      "chapters": 24
+    },
+    {
+      "name": "John",
+      "chapters": 21
+    },
+    {
+      "name": "Acts",
+      "chapters": 28
+    },
+    {
+      "name": "Romans",
+      "chapters": 16
+    },
+    {
+      "name": "1 Corinthians",
+      "chapters": 16
+    },
+    {
+      "name": "2 Corinthians",
+      "chapters": 13
+    },
+    {
+      "name": "Galatians",
+      "chapters": 6
+    },
+    {
+      "name": "Ephesians",
+      "chapters": 6
+    },
+    {
+      "name": "Philippians",
+      "chapters": 4
+    },
+    {
+      "name": "Colossians",
+      "chapters": 4
+    },
+    {
+      "name": "1 Thessalonians",
+      "chapters": 5
+    },
+    {
+      "name": "2 Thessalonians",
+      "chapters": 3
+    },
+    {
+      "name": "1 Timothy",
+      "chapters": 6
+    },
+    {
+      "name": "2 Timothy",
+      "chapters": 4
+    },
+    {
+      "name": "Titus",
+      "chapters": 3
+    },
+    {
+      "name": "Philemon",
+      "chapters": 1
+    },
+    {
+      "name": "Hebrews",
+      "chapters": 13
+    },
+    {
+      "name": "James",
+      "chapters": 5
+    },
+    {
+      "name": "1 Peter",
+      "chapters": 5
+    },
+    {
+      "name": "2 Peter",
+      "chapters": 3
+    },
+    {
+      "name": "1 John",
+      "chapters": 5
+    },
+    {
+      "name": "2 John",
+      "chapters": 1
+    },
+    {
+      "name": "3 John",
+      "chapters": 1
+    },
+    {
+      "name": "Jude",
+      "chapters": 1
+    },
+    {
+      "name": "Revelation",
+      "chapters": 22
+    },
+    {
+      "name": "The Didache",
+      "chapters": 1
+    },
+    {
+      "name": "The Epistle of Barnabas",
+      "chapters": 1
+    },
+    {
+      "name": "The Shepherd of Hermas",
+      "chapters": 1
+    },
+    {
+      "name": "Ignatius of Antioch’s Letters",
+      "chapters": 1
+    },
+    {
+      "name": "The Apology of Justin Martyr",
+      "chapters": 1
+    },
+    {
+      "name": "The Gospel of Thomas",
+      "chapters": 1
+    },
+    {
+      "name": "The Gospel of Mary",
+      "chapters": 1
+    },
+    {
+      "name": "The Apocryphon of John",
+      "chapters": 1
+    },
+    {
+      "name": "The Gospel of Judas",
+      "chapters": 1
+    },
+    {
+      "name": "Pistis Sophia",
+      "chapters": 1
+    },
+    {
+      "name": "The Book of Tobit",
+      "chapters": 1
+    },
+    {
+      "name": "The Wisdom of Solomon",
+      "chapters": 1
+    },
+    {
+      "name": "1 Maccabees",
+      "chapters": 1
+    },
+    {
+      "name": "Sirach (Ecclesiasticus)",
+      "chapters": 1
+    },
+    {
+      "name": "The Book of Judith",
+      "chapters": 1
+    },
+    {
+      "name": "The Emerald Tablet",
+      "chapters": 1
+    },
+    {
+      "name": "The Kybalion",
+      "chapters": 1
+    },
+    {
+      "name": "The Secret Doctrine by Helena Blavatsky",
+      "chapters": 1
+    },
+    {
+      "name": "Corpus Hermeticum",
+      "chapters": 1
+    },
+    {
+      "name": "The Book of Enoch",
+      "chapters": 1
+    },
+    {
+      "name": "The Zohar",
+      "chapters": 1
+    },
+    {
+      "name": "Sefer Yetzirah",
+      "chapters": 1
+    },
+    {
+      "name": "Bahir",
+      "chapters": 1
+    },
+    {
+      "name": "Tikkunei Zohar",
+      "chapters": 1
+    },
+    {
+      "name": "The Book of Raziel",
+      "chapters": 1
+    },
+    {
+      "name": "Martin Luther's 95 Theses",
+      "chapters": 1
+    },
+    {
+      "name": "John Calvin's Institutes of the Christian Religion",
+      "chapters": 1
+    },
+    {
+      "name": "The Augsburg Confession",
+      "chapters": 1
+    },
+    {
+      "name": "The Westminster Confession of Faith",
+      "chapters": 1
+    },
+    {
+      "name": "The Works of Zwingli",
+      "chapters": 1
+    },
+    {
+      "name": "The Nag Hammadi Library",
+      "chapters": 1
+    },
+    {
+      "name": "The Talmud",
+      "chapters": 1
+    },
+    {
+      "name": "The Dead Sea Scrolls",
+      "chapters": 1
+    },
+    {
+      "name": "The Divine Comedy by Dante Alighieri",
+      "chapters": 1
+    },
+    {
+      "name": "The Cloud of Unknowing",
+      "chapters": 1
+    }
+  ]
+}
