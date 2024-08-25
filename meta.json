@@ -1,6 +1,6 @@
 {
   "stage": 0,
-  "name": "The KJV bible with mixed latin words. For Latin beginner students to read the KJV bible where various words are replaced with the latin word without reducing readability.",
+  "name": "The Vulgabib",
   "slug": "lat",
   "books": [
     {
